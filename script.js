@@ -1,3 +1,3 @@
 document.addEventListener("DOMContentLoaded", function() {
-    alert("Welcome to Benjamin Adedowole's Portfolio!");
+    alert("Welcome to Benjamin's Portfolio!");
         });
